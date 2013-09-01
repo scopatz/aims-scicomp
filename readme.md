@@ -17,4 +17,4 @@ other sources.  Files or directories for such materials are denoted by
 the cooresponding prefix.
 
 * **Software Carpentry (swc-):** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
-
+* **The Hacker Within (thw-):** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
