@@ -8,12 +8,13 @@ of science.  The subjects we will cover include,
 * The Shell - BASH
 * Version Control - git
 * Programming and Computer Science Basics - Python
+* Best Practices - Testing, Documentation
 
 Course Provenance
 =================
-Many of the materails presented here come may have come originally from 
-other sources.  Where noted, such materials are covered by their original 
-license.
+Many of the materials presented here come may have come originally from 
+other sources.  Files or directories for such materials are denoted by 
+the cooresponding prefix.
 
-* **Software Carpentry:** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+* **Software Carpentry (swc-):** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
